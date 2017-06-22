@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+.virtualenv
+.virtualenv2
+.test-env
+.DS_Store
